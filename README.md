@@ -36,7 +36,7 @@ I focus on building practical software solutions with clean and structured code.
 Some of my projects include:
 
 - Student Management System
-- Expense Tracker
+
 - Password Generator
 - Number Guessing Game
 - Contact Book

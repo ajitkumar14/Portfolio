@@ -4,7 +4,7 @@
 
 Welcome to my personal developer portfolio.
 
-This website showcases my skills, projects, education, and developer profile.
+This website showcases my skills, projects,education, and developer profile.
 
 ## 👨‍💻 About Me
 
